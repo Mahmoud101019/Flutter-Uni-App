@@ -674,7 +674,6 @@ class Approutes {
 class Routes {
   static const splash1 = '/Splash1Screen';
   static const splash2 = '/Splash2Screen';
-  static const splash3 = '/Splash2Screen';
   static const onboarding1 = '/Onboarding1';
   static const onboarding2 = '/onboarding2';
   static const signupScreen = '/SignupScreen';
